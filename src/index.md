@@ -26,7 +26,8 @@ scholar: https://scholar.google.com/citations?user=QnxgRIIAAAAJ&hl=en
 # bluesky: https://bsky.app/
 linkedin: https://www.linkedin.com/in/abigail-pribisova
 footer: Based on the
-  [basicpage template](https://github.com/basicpage/basicpage.github.io).
+  [basicpage template](https://github.com/basicpage/basicpage.github.io). Created 
+  with help of Claude.
 ---
 
 <!-- > [!NOTE]

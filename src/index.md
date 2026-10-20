@@ -2,8 +2,7 @@
 title: Abigail Linda Pribisova
 author: Abigail Linda Pribisova
 shortbio: Doctoral candidate at MPI-SP
-description-meta: PhD student at the Max Planck Institute for Security and
-  Privacy, working on formal verification and type systems.
+description-meta: PhD student at MPI-SP, working on formal verification and type systems.
 og-url: https://abbypribis.github.io
 location: MPI-SP, Bochum, Germany
 email: abigail.pribisova@mpi-sp.org
